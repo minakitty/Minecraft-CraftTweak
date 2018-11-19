@@ -1,6 +1,8 @@
 # Made by Sera de Noir (c) 2018
 # Makes Biomes O' Plenty cherry trees craftable
 
+# Prerequisites: Pam's HarvestCraft, Biomes O' Plenty
+
 val leaf = <minecraft:leaves>;
 val stick = <minecraft:stick>;
 val cherry = <harvestcraft:cherryitem>;

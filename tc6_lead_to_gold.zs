@@ -1,6 +1,8 @@
 # (c) 2018 Sera de Noir
 # Thaumcraft recipe to make gold from lead
 
+# Prerequisites: Thaumcraft, Tech Reborn
+
 import mods.thaumcraft.Crucible;
 
 val tringot = <techreborn:ingot>;

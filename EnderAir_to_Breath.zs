@@ -1,3 +1,8 @@
+# (c) 2018 Sera de Noir
+# Recipe to make Dragon Breath craftable
+
+# Prerequisites: Botania
+
 val botaniaResource = <botania:manaresource>;
 val dstone = botaniaResource.withDamage(9);
 val air = botaniaResource.withDamage(15);

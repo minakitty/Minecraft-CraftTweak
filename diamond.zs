@@ -1,6 +1,8 @@
 # (c) 2018 Sera de Noir
 # Alternative diamond crafting recipe to replace IC2's
 
+# Prerequisites: Tech Reborn
+
 val coal = <minecraft:coal_block>;
 val piston = <minecraft:piston>;
 val nugget = <techreborn:nuggets>;
