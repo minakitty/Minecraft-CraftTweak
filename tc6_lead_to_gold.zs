@@ -9,4 +9,4 @@ val tringot = <techreborn:ingot>;
 val lead = tringot.withDamage(8);
 
 //mods.thaumcraft.Crucible.registerRecipe(String name, String researchKey, IItemStack output, IIngredient input, CTAspectStack[] aspects);
-mods.thaumcraft.Crucible.registerRecipe("crucibleTest", "", <minecraft:gold_ingot>, lead, [<aspect:desiderium>*12, <aspect:metallum>*12, <aspect:praecantatio>*12]);
+mods.thaumcraft.Crucible.registerRecipe("crucibleTest", "", <minecraft:gold_ingot>, lead, [<aspect:desiderium>*12, <aspect:metallum>*12, <aspect:praecantatio>*5]);
